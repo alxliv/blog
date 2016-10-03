@@ -31,3 +31,8 @@ theme: minima
 gems: 
   - jekyll-paginate
   - jekyll-feed
+
+# Sass conversion configs
+sass:
+  sass_dir: assets/css/_sass
+  style: :compressed
