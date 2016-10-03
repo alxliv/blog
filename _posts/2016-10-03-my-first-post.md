@@ -9,7 +9,6 @@ categories:
 - sample
 - guides
 - photography
-permalink: sample-post
 ---
 
 Alex added
