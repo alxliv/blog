@@ -37,5 +37,5 @@ gems:
 
 # Sass conversion configs
 sass:
-  sass_dir: /assets/css/_sass
+  sass_dir: assets/css/_sass
   style: :compressed
