@@ -6,19 +6,18 @@ banner_image: sample-banner-image-2.jpg
 banner_image_alt: About me
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+Hi, I am Alex. I am a professional software developer. I would love to create a great computer game.
 
-I prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+I prefer to work on [Windows][Windows] in [GitHub][github].
 
 ### Contact me
 
-Say `Hello` at gayanvirajith@gmail.com or find
+Say `Hello` at prostoalex333@gmail.com or find
 me on
 
 ---
 
 {% include social.html %}
 
-[pw]: http://processwire.com
-[jekyll]: http://jekyllrb.com
+[Windows]: http://microsoft.com
+[github]: https://github.com/alxliv
