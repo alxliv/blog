@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Hi, I program computers.
   I work mainly on PC and dream of creating one 
   great game. 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://alxliv.github.io/gaya" # the base hostname & protocol for your site
+baseurl: "/gaya" # the subpath of your site, e.g. /blog/
+url: "https://alxliv.github.io" # the base hostname & protocol for your site
 logourl: "assets/images/logo.png" # Site logo
 author: "Alex"
 author_thumbnail: "assets/images/avatar.jpg" # Author avatar
@@ -34,7 +34,7 @@ exclude:
 
 # Sass conversion configs
 sass:
-  sass_dir: assets/css/_sass
+  sass_dir: /assets/css/_sass
   style: :compressed
 
 gems: [jekyll-paginate]
