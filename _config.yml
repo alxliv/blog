@@ -18,6 +18,9 @@ author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Build settings
 markdown: kramdown
 
+# Permalinks
+permalink: pretty
+
 # Pagination config
 paginate: 5
 
