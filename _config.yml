@@ -10,9 +10,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ALivshitz
 github_username:  alxliv
-logourl: /assets/images/logo.png # Site logo
+logourl: "assets/images/logo.png" # Site logo
 author: "Alex"
-author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
+author_thumbnail: "assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
 
 # Build settings
