@@ -3,7 +3,8 @@ title: Alliv Blog
 tagline: Under Construction
 email: prostoalex333@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I am a professional programmer and dream of making games. 
+  Hi, I am a professional programmer and dream of making 
+  persistent virtual worlds and multiplayer games. 
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 logourl: "assets/images/logo.png" # Site logo
